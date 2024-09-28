@@ -3,6 +3,8 @@
 
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+[![Walthrough Video](https://youtu.be/js9iONfFdXQ)]
+
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
